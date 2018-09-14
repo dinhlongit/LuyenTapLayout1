@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="width">75dp</dimen>
+    <dimen name="height_text">200dp</dimen>
+    <dimen name="width_but">269dp</dimen>
+</resources>

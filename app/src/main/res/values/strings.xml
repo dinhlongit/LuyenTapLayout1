@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">LuyenTapLayout1</string>
+    <string name="text7">7</string>
+    <string name="text8">8</string>
+    <string name="text9">9</string>
+    <string name="text4">4</string>
+    <string name="text5">5</string>
+    <string name="text40">4</string>
+    <string name="text6">6</string>
+    <string name="text1">1</string>
+    <string name="text3">3</string>
+    <string name="text22">2</string>
+    <string name="text2">2</string>
+    <string name="text0">0</string>
+    <string name="text_on">ON</string>
+    <string name="text_off">OFF</string>
+    <string name="mc">MC</string>
+    <string name="mr">MR</string>
+    <string name="MS">MS</string>
+    <string name="M">M+</string>
+    <string name="MM">M-</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="ce">CE</string>
+    <string name="c">C</string>
+    <string name="congtru">+-</string>
+    <string name="can">√</string>
+    <string name="chia">/</string>
+    <string name="phantram">%</string>
+    <string name="nhan">*</string>
+    <string name="x">1/x</string>
+    <string name="phay">,</string>
+    <string name="cong">+</string>
+    <string name="tru">tri</string>
+    <string name="truu">-</string>
+    <string name="bang">=</string>
+</resources>
